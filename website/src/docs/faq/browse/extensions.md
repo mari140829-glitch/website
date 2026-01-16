@@ -33,7 +33,7 @@ When prompted while installing your first extension, allow unknown apps installa
 :::
 
 ::: tip Still got questions?
-If you need more help regarding this, read [this post](https://nerdschalk.com/how-to-allow-apps-installation-from-unknown-sources-on-android-9-pie/ "nerdschalk.com | How to allow apps installation from unknown sources on Android 9 Pie").
+If you need more help regarding this, read [this post](mihon.app/download,
 :::
 == Android 7.1 and lower
 When prompted while installing your first extension, allow unknown apps installation from that source. For older Androids, enable globally in **Unknown sources**.
